@@ -1,2 +1,2 @@
-for i in range(2):
-	print("Hello")
+for i in range(3):
+	print("Hello\n")
