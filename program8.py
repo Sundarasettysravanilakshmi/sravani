@@ -3,4 +3,4 @@ sum = 0
 while(s > 0):
      sum=sum+s
      s=s-1
-                print("sum of n natural numbers is",sum)
+                print sum
